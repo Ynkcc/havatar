@@ -1,0 +1,7 @@
+/data
+/data_preprocessing
+*.egg-info
+*.egg
+*.o
+*.so
+*.zip
